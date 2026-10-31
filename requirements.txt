@@ -1,0 +1,6 @@
+rich
+ollama
+pyttsx3
+elevenlabs
+python-dotenv
+pygame
