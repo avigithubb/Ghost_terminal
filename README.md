@@ -14,12 +14,8 @@ But something is not quite right about it.
 
 ## 🎬 Demo
 
-> Add your project demonstration video or GIF here.
-
-**Demo Video:** [Coming Soon]
-
-**Screenshots:** [Add screenshots of the terminal interface here]
-
+**Demo Video:** 
+<img href="https://www.youtube.com/watch?v=0c8fQcmnvec" />
 ---
 
 ## ✨ Features
