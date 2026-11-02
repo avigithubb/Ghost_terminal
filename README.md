@@ -15,7 +15,7 @@ But something is not quite right about it.
 ## 🎬 Demo
 
 **Demo Video:** 
-<img href="https://www.youtube.com/watch?v=0c8fQcmnvec" />
+{{https://www.youtube.com/watch?v=0c8fQcmnvec}}
 ---
 
 ## ✨ Features
